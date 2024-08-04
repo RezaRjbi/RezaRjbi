@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaRjbi
 - 👀 I’m interested in programming and workingout
-- 🌱 I’m currently learning docker and django
+- 🌱 I’m currently working at [Vanda Pardakht](https://ng.vandapardakht.ir)
 - 📫 you can reach me on telegram [RzaRajabi](https://t.me/rzarajabi)
 
 <!---
